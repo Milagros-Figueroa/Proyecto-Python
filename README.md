@@ -27,3 +27,7 @@ Visual Studio Code
 Git / GitHub
 
 Autor: Milagros Luna Figueroa
+
+## MENU 
+<img width="394" height="193" alt="image" src="https://github.com/user-attachments/assets/c6d58016-d7a1-444d-a2df-cad805c7bf48" />
+
